@@ -1,0 +1,7 @@
+{
+  "name": "ComponentesAvatar,Button",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
